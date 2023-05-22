@@ -12,9 +12,9 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/cristian-casti%C3%B1eiras-758278239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-informational?style=social&logo=linkedin&logoColor=white&color=0e75b6" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/Criistiancast" target="_blank"><img src="https://img.shields.io/badge/Twitter-Perfil-informational?style=social&logo=twitter&logoColor=white&color=0e75b6" alt="Twitter" /></a>
-  <a href="mailto:cristianaranacastineiras@gmail.com"><img src="https://img.shields.io/badge/Email-Contáctame-informational?style=social&logo=gmail&logoColor=white&color=0e75b6" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/cristian-casti%C3%B1eiras-758278239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-informational?style=social&logo=linkedin&logoColor=blue&color=0e75b6" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Criistiancast" target="_blank"><img src="https://img.shields.io/badge/Twitter-Perfil-informational?style=social&logo=twitter&logoColor=blue&color=0e75b6" alt="Twitter" /></a>
+  <a href="mailto:cristianaranacastineiras@gmail.com"><img src="https://img.shields.io/badge/Email-Contáctame-informational?style=social&logo=gmail&logoColor=red&color=0e75b6" alt="Email" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
