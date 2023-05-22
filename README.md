@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Sobre mí:</h3>
-<p align="left">Estoy estudiando **Desarrollo de aplicaciones multiplataforma** y me apasiona crear soluciones innovadoras.</p>
+<p align="left">Estoy estudiando <strong>Desarrollo de aplicaciones multiplataforma</strong></p>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
