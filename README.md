@@ -1,75 +1,72 @@
-<h1 align="center">¡Hola 👋, soy Cristian!</h1>
+# <h1 align="center">¡Hola 👋, soy Cristian Arana!</h1>
 <h3 align="center">Desarrollador Full Stack Español</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cristiancastt&label=Profile%20views&color=0e75b6&style=flat" alt="cristiancastt" /> </p>
-<p>I'm Cristian Arana, a Full Stack Developer with a focus on creating robust web applications, APIs, and solutions for various industries, including finance, ERP, and GIS systems.</p>
-<p>Currently, I work with technologies like React, .NET Core, and C#, creating powerful backends and intuitive frontends. You can explore some of my projects here on GitHub, showcasing my journey through web, desktop, and mobile development.</p>
-<p>Feel free to reach out if you want to discuss projects, tech, or just say hello!</p>
 
-## 🛠️ Skills and Tools
-  
-### 💻 Programming Languages: 
-<div style="display: flex;">
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="height: 33px;" alt="TypeScript">
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="height: 33px;" alt="C#">
-  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" style="height: 33px;" alt="Java">
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="height: 33px;" alt="Python">
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="height: 33px;" alt="JavaScript">
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" style="height: 33px;" alt="PHP">
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cristianaranacastineiras&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="cristianaranacastineiras" />
+</p>
+
+Soy Cristian Arana Castiñeiras, un Desarrollador Full Stack con 3 años de experiencia en el mundo IT. Me enfoco en crear aplicaciones web robustas, APIs y soluciones para diversas industrias, incluyendo finanzas y sistemas de gestión.
+
+Actualmente, trabajo con tecnologías como React, .NET Core y C#, creando backends potentes y frontends intuitivos. Puedes explorar algunos de mis proyectos aquí en GitHub, que muestran mi trayectoria en desarrollo web, de escritorio y móvil.
+
+¡No dudes en contactarme si quieres discutir proyectos, tecnología o simplemente saludar!
+
+## 🛠️ Habilidades y Herramientas
+
+### 💻 Lenguajes de Programación:
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 🚀 Frameworks:
-<div style="display: flex;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" style="height: 33px;" alt=".NET Core">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="height: 33px;" alt="React">
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" style="height: 33px;" alt="Angular">
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" style="height: 33px;" alt="Spring Boot">
-</div>
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-### 🌐 Web Development:
-<div style="display: flex;">
-  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" style="height: 33px;" alt="HTML5">
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="height: 33px;" alt="CSS3">
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" style="height: 33px;" alt="Tailwind CSS">
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="height: 33px;" alt="Bootstrap">
-  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" style="height: 33px;" alt="jQuery">
-</div>
+### 🌐 Desarrollo Web:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🖥️ Operating Systems:
-<div style="display: flex;">
-  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" style="height: 33px;" alt="Linux">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" style="height: 33px;" alt="Windows">
-</div>
+### 🖥️ Sistemas Operativos:
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-### 🗄️ Databases:
-<div style="display: flex;">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-logo.svg" style="height: 33px;" alt="SQL Server">
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" style="height: 33px;" alt="PostgreSQL">
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="height: 33px;" alt="MySQL">
-</div>
+### 🗄️ Bases de Datos:
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🧰 Version Control:
-<div style="display: flex;">
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" style="height: 33px;" alt="Git">
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" style="height: 33px;" alt="GitHub">
-  <img src="https://cdn.worldvectorlogo.com/logos/azure-icon.svg" style="height: 33px;" alt="Azure DevOps">
-</div>
+### 🧰 Control de Versiones:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
-### 🌍 Others:
-<div style="display: flex;">
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" style="height: 33px;" alt="Docker">
-  <img src="https://cdn.worldvectorlogo.com/logos/geoserver.svg" style="height: 33px;" alt="GeoServer">
-</div>
+### 🌍 Otros:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## 🌱 I’m currently working on
-Building a Google Drive-like application, using React for frontend, C# with .NET Core for backend services, and Typesense for file search functionality, hosted on a self-configured NAS.
+## 🌱 Actualmente estoy trabajando en
+Desarrollo de aplicaciones web avanzadas para la gestión de datos en Hacienda de Navarra, utilizando React para el frontend y C# con .NET Core para servicios backend. Implementando soluciones de seguridad y optimización de rendimiento con tecnologías como Elasticsearch y Redis.
 
-## 📫 How to reach me
+## 📫 Cómo contactarme
 <div align="left">
-  <a href="mailto:your-email-here@gmail.com" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/email-icon.svg" alt="Email" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/your-profile-here" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40"/> </a>
+  <a href="mailto:cristianaranacastineiras@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/tu-perfil-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="tel:+34663505819"><img src="https://img.shields.io/badge/-+34%20663%2050%2058%2019-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Teléfono"/></a>
 </div>
 
-## ⚡ Fun fact
-- I love playing basketball 🏀 and chess ♟️.
-- When not coding, I'm probably exploring the outdoors for a night of stargazing 🔭.
+## 📚 Educación
+- **Ingeniería Informática** - UNED (En curso, desde Septiembre 2024)
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** - C.I Cuatrovientos (2022 - 2024)
+- **Bachiller Científico Tecnológico** - I.E.S Julio Caro Baroja (2020 - 2022)
 
+## ⚡ Datos curiosos
+- Me encanta entrenar.
+- Soy nativo en español y tengo un nivel alto de inglés 🌍.
