@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Full Stack Español</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cristianaranacastineiras&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="cristianaranacastineiras" />
+  <img src="https://komarev.com/ghpvc/?username=cristiancastt&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="cristianaranacastineiras" />
 </p>
 
 Soy Cristian Arana Castiñeiras, un Desarrollador Full Stack con 3 años de experiencia en el mundo IT. Me enfoco en crear aplicaciones web robustas, APIs y soluciones para diversas industrias, incluyendo finanzas y sistemas de gestión.
